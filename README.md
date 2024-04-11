@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KerryQian
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Computational Design
-- 💞️ I’m looking to collaborate on any projects
+
 - 📫 How to reach me kerryqian@hotmail.com
 
 <!---
